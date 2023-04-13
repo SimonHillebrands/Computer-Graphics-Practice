@@ -127,7 +127,7 @@ int main()
         
     }
   
-
+    pointsV.clear();
 glBindBuffer(GL_ARRAY_BUFFER, 0); 
     //Render loop
     cout <<"uwu2"<<endl;
